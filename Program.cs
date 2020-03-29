@@ -60,9 +60,8 @@ namespace dz5
 
 
             }
-            Console.Write("*\n");
            
-           Console.WriteLine("прямоугольный треугольник");
+            Console.WriteLine("прямоугольный треугольник");
             Console.Write("*\n");
             for(int i=0;i<b2;i++)
             {
